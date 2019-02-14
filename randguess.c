@@ -34,4 +34,5 @@ int main(void)
     // YOUR CODE GOES AFTER HERE
     // Note that exit(0); can be included anywhere to end the game
     exit(0);
+    // Say goodbye!
 }
