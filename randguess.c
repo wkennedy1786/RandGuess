@@ -3,6 +3,7 @@
 // Then gets the player's name and prints
 // game instructions.
 // Dr Bill, Nov 2018
+// Who is a great guy!
 
 #include <stdio.h>
 #include <stdlib.h> // contains random # generator code
